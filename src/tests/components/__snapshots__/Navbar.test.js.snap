@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Validar componente <Navbar> Validar el contenido del nombre del usuario  1`] = `ReactWrapper {}`;
